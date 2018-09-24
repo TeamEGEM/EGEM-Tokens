@@ -1,1 +1,30 @@
-
+[
+	{
+ 		"name":"JAL",
+ 		"ticker":"JAL",
+ 		"address":"0xd13f1e4ba5a631cb0dc53cb31ff05218864f861e",
+    "precision":"",
+    "creator":"jal3inc"
+	},
+  {
+ 		"name":"NDR",
+ 		"ticker":"NDR",
+ 		"address":"0x0c5106dc60033c5ac6ec3d504883c451265e7560",
+    "precision":"",
+    "creator":""
+	},
+	{
+ 		"name":"0xBTC",
+ 		"ticker":"0xBTC",
+ 		"address":"0xa1c036a1b083dd9d9ea8427dca4c1d53f089be57",
+    "precision":"",
+    "creator":""
+	},
+	{
+ 		"name":"1337",
+ 		"ticker":"1337",
+ 		"address":"0xc1ff97815505c4331ad3d6c737a6d63cbab27b39",
+    "precision":"",
+    "creator":""
+	},
+]
